@@ -1,0 +1,7 @@
+{"id":"5aec3375-f28a-4569-9e71-2e9bf5b9f8e9","name":"amanda","description":"lobato","price":50.0,"on_offer":false}
+{"id":"878b0788-909d-4adc-be75-b3b9f4c4ff1a","name":"emizita","description":"logemi","price":1000000000000.0,"on_offer":false}
+{"id":"c2438c01-1150-4708-9640-c9e7a0693e23","name":"teste","description":"teste2","price":8478354.0,"on_offer":false}
+{"id":"b1222bd0-515c-428d-8fe3-f8a61a2f86f0","name":"amanda","description":"lobato","price":500.0,"on_offer":false}
+{"id":"80763ca5-f01c-4b37-b2ba-f13e3cc9e118","name":"aaa","description":"bbb","price":20.0,"on_offer":false}
+{"id":"a59c42c6-6c4f-4056-8b42-4ff224b69158","name":"aaa","description":"bbb","price":20.0,"on_offer":false}
+{"id":"5e703f70-b5e9-470b-815a-38b900dddc73","name":"teste","description":"teste2","price":200.0,"on_offer":false}
